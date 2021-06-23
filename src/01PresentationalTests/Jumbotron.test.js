@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import Jumbotron from "../components/testComponents/Jumbotron";
+import Jumbotron from "../components/01Presentational/Jumbotron";
 
 it("displays the logo", () => {
   render(<Jumbotron />);

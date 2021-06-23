@@ -7,7 +7,7 @@ const Travel = () => {
     >
       <i
         className="material-icons"
-        style={{ fontSize: "4rem" }}
+        style={{ fontSize: "2rem" }}
       >
         airplanemode_active
       </i>

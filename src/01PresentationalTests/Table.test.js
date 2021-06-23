@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import Table from "../components/testComponents/Table";
+import Table from "../components/01Presentational/Table";
 const fakeEmployees = [
   {
     id: 1,

@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import Travel from "../components/testComponents/Travel";
+import Travel from "../components/01Presentational/Travel";
 /**********************************************
  * Snapshot Testing
  * ==================================
