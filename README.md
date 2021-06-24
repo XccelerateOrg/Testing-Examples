@@ -1,7 +1,5 @@
 # Testing Examples
 
-## Testing Presentational Components
-
 Components:
 
 - See src/components/testComponents
@@ -9,5 +7,3 @@ Components:
 Tests:
 
 - src/testComponents
-
-## Testing 
