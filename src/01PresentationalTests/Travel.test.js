@@ -16,7 +16,7 @@ it("displays the header and paragraph text", () => {
       >
         <i
           class="material-icons"
-          style="font-size: 4rem;"
+          style="font-size: 2rem;"
         >
           airplanemode_active
         </i>

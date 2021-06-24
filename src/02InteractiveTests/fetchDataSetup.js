@@ -52,7 +52,7 @@ const drinks = [
   },
 ];
 
-export const worker = setupWorker(
+export const worker = setupServer(
   rest.get(
     "https://www.thecocktaildb.com/api/json/v1/1/search.php",
     (req, res, ctx) => {

@@ -81,7 +81,7 @@ function App() {
         <div className="container">
           <h2>Vote</h2>
           <p>Tests for </p>
-          <Vote />
+          {/* <Vote /> */}
         </div>
       </center>
     </div>
